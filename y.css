@@ -1,0 +1,30 @@
+.text {
+    background-color:gold;
+    font-size:50px;
+    border-color:cornflowerblue;
+    border-style:groove;
+    border-width:70px;
+    font-style: initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-variant-ligatures: historical-ligatures;
+    border-bottom-left-radius: 10fr;
+    text-align: center;
+}
+.link {
+    background-color: lime;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border-color:orange;
+    border-style: groove;
+    border-bottom: 10fr;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    height: 500px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
